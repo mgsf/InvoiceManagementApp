@@ -167,6 +167,9 @@
             <e p="CreateInvoiceCommandHandler.cs" t="Include" />
             <e p="GetUserInvoicesQueryHandler.cs" t="Include" />
           </e>
+          <e p="MappingProfiles" t="Include">
+            <e p="InvoiceMappingProfile.cs" t="Include" />
+          </e>
           <e p="Queries" t="Include">
             <e p="GetUserInvoicesQuery.cs" t="Include" />
           </e>
